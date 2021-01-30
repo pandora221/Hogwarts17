@@ -15,7 +15,4 @@ class Calculator:
         return (a / b)
 
 
-    # def div(self, a, b,result):
-    #     # return a / b
-    #     assert result == a / b
 
